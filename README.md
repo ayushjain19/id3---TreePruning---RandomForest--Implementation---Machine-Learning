@@ -10,7 +10,7 @@ The code is general for any dataset. Its just that you need to provide the input
     - Give all the possible inputs that can be given for each attribute.
     - At the end, Give the number of examples on which the training is to be done.
   
-    *I have included a file named "input.txt" which contains the command line input for the dataset provided [here]()*
+    *I have included a file named "input.txt" which contains the command line input for the dataset information provided [here](https://archive.ics.uci.edu/ml/datasets/Census+Income) and the corresponding dataset is provided [here](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/)*
   
 2. File input:
     - There are two file inputs:
