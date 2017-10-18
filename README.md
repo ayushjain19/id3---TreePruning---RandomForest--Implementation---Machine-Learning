@@ -1,4 +1,4 @@
-# id3---TreePruning---RandomForest--Implementation---Machine-Learning
+# Decision Tree Learning
 
 This directory contains code for implementation for **id3 Decision Tree** algorithm, followed by **Tree Pruning or Reduced Error Pruning**, which is then followed by the **Random Forest** implementation.
 
