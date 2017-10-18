@@ -56,7 +56,7 @@ Broadly, a total of three tasks are being performed for training the dataset:
     
     
 3. **Random Forest:**
-  -*Pseudocode:*
+  - *Pseudocode:*
       - For forming each tree:
           - Randomly sample N data points from the dataset of N data points(data points in the final sample may repeat or may not even occur once).
           - Run id3 algorithm on this dataset with the following modification in every id3 function call:
